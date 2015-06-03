@@ -3,7 +3,7 @@ rlUtil.factory('mockHttp', ['$q',
     return function(response) {
       var deferred = $q.defer();
       setTimeout(function() {
-        deferred.resolve(response);˜
+        deferred.resolve(response);
       }, Math.floor(Math.random() * 2000));
       return deferred.promise;
     };

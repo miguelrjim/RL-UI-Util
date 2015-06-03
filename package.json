@@ -2,7 +2,7 @@
   "name": "rl-util",
   "version": "0.0.1",
   "description": "Util modules for RL UI",
-  "main": "release/index.js",
+  "main": "release/build.js",
   "files": [
     "release/build.js",
     "package.json",
