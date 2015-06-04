@@ -1,6 +1,6 @@
 {
   "name": "rl-util",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Util modules for RL UI",
   "main": "release/build.js",
   "files": [
